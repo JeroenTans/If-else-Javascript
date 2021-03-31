@@ -57,7 +57,7 @@ switch (monitorColor) {
         console.log("Kritieke hartslag, actie vereist!");
         break;
     default:
-        console.log("Hartslag onbekend.")
+        console.log("Hartslag onbekend.git")
 }
 
 // Deze variabele zal altijd een kleur bevatten. De specifieke kleuren waar een melding bij gemaakt moet worden zijn: "red", "green", "yellow" en "orange".
